@@ -7,7 +7,7 @@ const Navbar = (props) => {
     <HStack
       borderBottom="solid 1px #dbdbdb"
       w="100vw"
-      h="40px"
+      h="60px"
       px="7"
       justify="space-between"
     >
